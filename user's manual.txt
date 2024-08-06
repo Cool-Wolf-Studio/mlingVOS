@@ -1,0 +1,40 @@
+Translation is provided by 'sogou' and 'Google'.
+翻译由谷歌和搜狗提供
+
+0.目录
+0.catalogue
+&1.所有指令
+&1.All instructions
+
+Z.前言
+Z.foreword
+_感谢你们游玩我的作品，你们的鼓励就是我更
+_Thank you for playing with my works. Your 
+新的动力！
+encouragement is my motivation to update.
+_VOS指的是虚拟/模拟/伪操作系统。
+_VOS refers to Virtual/Analog/Pseudo Operating System.
+
+1.所有指令
+1.All instructions
+_以下将全由英文表示
+_The following is a special performance in English!
+(utc) utc time
+(time) time in your area
+(/what.log) Check the log of this run
+(#os.file) Query the file location of this VOS.
+(#os.name) Platform standard name
+(#os.sep) Path division mode of this platform
+(#os.abspath) Query the location of a file in the original file
+(VOS) Equipment information
+(lip) IP address query [test item]
+(#sys.copy) Python copyright information
+(#sys.eio) Abnormal situation handled
+(/*sk run) Modify 7082 service instruction
+(/*) Yam editor
+(/what.v) Query the version that can be queried
+(/*end) End operation
+(/*data) Test item storage
+($run) Initial service instruction[/*sk run Can changed]
+(/*sk ww) Modify the welcome sent after the server has a new client
+(_@) Iterative instruction
