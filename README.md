@@ -1,5 +1,5 @@
 ## mlingVOS  ##  
-A **pseudo operating system** written in Python.  
+A **pseudo operating system**[^1] written in Python.  
 _Everyone can use, copy and change it._  
 This is my first project, I hope I can support it more. 
 
@@ -9,8 +9,8 @@ I am learning English. If there is any translation error, you can tell me or cha
 Translation is provided by sogou and Google.
 ### introduce ###
 A pseudo operating system written by Python, similar to a shell terminal.
-You can use the "user's manual" to understand the basic usage.
-###### Or by checking scripts.
+You can use the "user's manual" to understand the basic usage.  
+Or by checking scripts.
 ###
 ### Future updates ###
 * Save with json file
@@ -27,8 +27,9 @@ console.log('hello github!');
 ```
 
 ### contact us ###
-My mailbox:`chlingzool@outlook.com`[^1]
-[^1]: My personal email address
+My mailbox:`chlingzool@outlook.com`[^2]
+[^1]: VOS (virtual opetrating system)
+[^2]: My personal email address
 
 
 My sponsor: [DevSide-Team](https://teamside.dev/)
