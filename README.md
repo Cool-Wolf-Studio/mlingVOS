@@ -12,7 +12,7 @@ A pseudo operating system written by Python, similar to a shell terminal.
 You can use the "user's manual" to understand the basic usage.
 ###### Or by checking scripts.
 ###
-## Future updates ##
+### Future updates ###
 * Save with json file
 * Password-free login
 * New and colored terminal
@@ -26,3 +26,7 @@ print("hello world!")
 console.log('hello github!');
 ```
 
+### contact us ###
+My mailbox:`chlingzool@outlook.com`[^1]
+[^1]: My personal email address
+My sponsor: [DevSide-Team](https://teamside.dev/)
