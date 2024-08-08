@@ -11,3 +11,18 @@ Translation is provided by sogou and Google.
 A pseudo operating system written by Python, similar to a shell terminal.
 You can use the "user's manual" to understand the basic usage.
 ###### Or by checking scripts.
+###
+## Future updates ##
+* Save with json file
+* Password-free login
+* New and colored terminal
+
+#### hello world ###
+
+```Python
+print("hello world!")
+```
+```Javascript
+console.log('hello github!');
+```
+
