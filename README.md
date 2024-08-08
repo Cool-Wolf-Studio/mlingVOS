@@ -10,7 +10,8 @@ Translation is provided by sogou and Google.
 ### introduce ###
 A pseudo operating system written by Python, similar to a shell terminal.
 You can use the "user's manual" to understand the basic usage.  
-~~Or by checking scripts.~~It's best not to do this.  
+~~Or by checking scripts.~~
+It's best not to do this.  
 ###
 ### Future updates ###
 * Save with json file
