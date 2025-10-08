@@ -18,17 +18,8 @@ It's best not to do this.
 * Password-free login
 * New and colored terminal
 
-#### hello world ###
-
-```Python
-print("hello world!")
-```
-```Javascript
-console.log('hello github!');
-```
-
 ### contact us ###
-My mailbox:`chlingzool@outlook.com`[^2]
+email:`chlingzool@outlook.com`[^2]
 [^1]: VOS (virtual opetrating system)
 [^2]: My personal email address
 
